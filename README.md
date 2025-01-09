@@ -1,6 +1,6 @@
-##Graph Optimization on GPUs
+# Graph Optimization on GPUs
 
-I have implemented 2 CUDA kernels (Breadth First Search and Depth First Search) for graph algorithms and compared the performance improvement from CPU to GPU for the project. 
+This repository contains my implementation of 2 CUDA kernels (Breadth First Search and Depth First Search) for graph algorithms and compared the performance improvement from CPU to GPU for my GPU Programming course project. 
 
 To run this code, you will need to do the following commands:
 
