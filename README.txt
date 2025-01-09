@@ -1,4 +1,4 @@
-Hi Dr. Mayerich! 
+##Graph Optimization on GPUs
 
 I have implemented 2 CUDA kernels (Breadth First Search and Depth First Search) for graph algorithms and compared the performance improvement from CPU to GPU for the project. 
 
