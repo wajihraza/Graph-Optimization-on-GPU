@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/share/apps/cudatoolkit-12.4/include"
+            ],
+            "defines": [],
+            "compilerPath": "/share/apps/cudatoolkit-12.4/bin/nvcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
+
